@@ -1,0 +1,13 @@
+1. Explain what the terminal is in your own words.
+
+The terminal is the most direct way to interact with the computer system by typing commands which all do different things. Ex. (cd) changes the directory that you're currently in. The (say) command will make the computer say whatever you want it to, etc. 
+ 
+
+2. What is the major difference between Git and GitHub?
+
+The major difference between Git and GitHub is that Git is free to use and runs locally on computers while GitHub is a pay to use online service ran in the cloud.
+
+3.  What are the steps to fork a GitHub repository? 
+
+In order to fork a GitHub repository you would have to go to someone else's repository because you can't fork your own repository. Next there will be a button that says fork on that other person repository on the top right part of there git repository page. Finally click that fork button and create a fork of that repository. 
+
